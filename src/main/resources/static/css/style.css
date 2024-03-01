@@ -1,0 +1,73 @@
+.expanded-row {
+    height: 100px;
+    background-color: #f0f0f0;
+}
+.container {
+    width: 100%;
+    max-width: 3000px;
+}
+.table {
+    width: 100%;
+}
+
+.form-control {
+    width: 500px;
+    margin: auto;
+}
+.col-xs-4 {
+    margin-top: 50px;
+}
+.form{
+    /*margin: top;*/
+}
+.btn-primary{
+    margin-top: 20px
+}
+.container{
+    margin-top: 50px;
+}
+
+
+
+.navbar-brand {
+    color: #007bff; /* Cor do texto */
+}
+
+/* Estilos para os labels */
+.label {
+    margin-right: 5px; /* Margem direita */
+}
+
+.label-default {
+    background-color: #e6e6e6; /* Cor de fundo */
+}
+
+.label-primary {
+    background-color: #007bff; /* Cor de fundo */
+}
+
+.label-success {
+    background-color: #28a745; /* Cor de fundo */
+}
+
+.label-info {
+    background-color: #17a2b8; /* Cor de fundo */
+}
+
+.label-warning {
+    background-color: #ffc107; /* Cor de fundo */
+}
+
+.label-danger {
+    background-color: #dc3545; /* Cor de fundo */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    border: none; /* Remove a borda */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+}
